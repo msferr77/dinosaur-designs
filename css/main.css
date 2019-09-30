@@ -12,7 +12,6 @@ h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
   font-family: 'Patua One', sans-serif;
-
 }
 
 figcaption {
@@ -21,10 +20,12 @@ figcaption {
   text-align: center;
 }
 
+nav {
+  font-family: 'Patua One', sans-serif;
+}
+
 nav ol {
   list-style-type: none;
-  font-family: 'Patua One', sans-serif;
-
 }
 
 nav a {
