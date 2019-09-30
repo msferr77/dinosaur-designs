@@ -11,6 +11,8 @@ img {
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', sans-serif;
+
 }
 
 figcaption {
@@ -21,6 +23,8 @@ figcaption {
 
 nav ol {
   list-style-type: none;
+  font-family: 'Patua One', sans-serif;
+
 }
 
 nav a {
@@ -31,4 +35,8 @@ nav a {
 nav a:hover {
   color: #b42885;
   text-decoration: none;
+}
+
+.intro {
+  font-size: 1rem;
 }
